@@ -17,8 +17,6 @@ You can modify **AppDistribution** dictionary to change name of applications. Fo
 * ttkthemes 3.1.1
 
 ## Running from source
-::
-
     $ git clone https://github.com/sezerad/TimeTracker.git
     $ cd TimeTracker
     $ pip install -r requirements.txt
