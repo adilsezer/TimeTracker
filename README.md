@@ -1,4 +1,4 @@
 # TimeTracker
-A Python software by using Tkinter GUI to track time spent on active applications
+A Python software to track time spent on active applications by using Tkinter GUI.
 
 ![Alt text](https://github.com/sezerad/TimeTracker/blob/master/Screenshots/TimeTrackerApp.png?raw=true "Time Tracker App")
