@@ -8,7 +8,6 @@ import tkinter.ttk as ttk
 from ttkthemes import ThemedTk
 from tkinter import messagebox
 import re
-import threading
 import datetime
 
 
