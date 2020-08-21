@@ -23,7 +23,7 @@ You can modify **AppDistribution** dictionary to change name of applications. Fo
     $ python TimeTracker.py
 
 ## Screenshots
-### Main Application
+### Main Application GUI
 ![Alt text](https://github.com/sezerad/TimeTracker/blob/master/Screenshots/TimeTrackerApp.png?raw=true "Time Tracker App")
-### Modifying an application timing
+### Modifying timing of applications 
 ![Alt text](https://github.com/sezerad/TimeTracker/blob/master/Screenshots/Menu1.png?raw=true "Time Tracker App")
